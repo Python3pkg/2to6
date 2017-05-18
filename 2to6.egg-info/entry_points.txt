@@ -1,0 +1,3 @@
+[console_scripts]
+2to6 = lib2to6.main:main
+

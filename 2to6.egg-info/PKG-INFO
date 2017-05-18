@@ -1,0 +1,38 @@
+Metadata-Version: 1.1
+Name: 2to6
+Version: 1.0
+Summary: Convertation tools for python 2.6+ to python 3.3+
+Home-page: https://github.com/limodou/2to6
+Author: limodou
+Author-email: limodou@gmail.com
+License: UNKNOWN
+Description: 
+        =====================
+        2to6 Introduction
+        =====================
+        
+        :Author: Limodou <limodou@gmail.com>
+        
+        .. contents:: 
+        
+        About 2to6
+        ----------------
+        
+        This module is used to convert python 2.6+ source code to python 3.3+ source code, and 
+        it'll use six for supporing two versions of python.
+        
+        License
+        ------------
+        
+        This module is the modified version of 2to3, so the license is based on 2to3.
+        
+        
+Keywords: 2to3
+Platform: any
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
