@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/Python3pkg/0bin)
+
 2to6
 ========
 
@@ -46,3 +48,4 @@ class A(object):
 ```
 isinstance(a, (int, long)) -> isinstance(a, six.integer_types)
 ```
+
